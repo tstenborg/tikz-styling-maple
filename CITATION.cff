@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+title: "Styling Maple graphics with TikZ and LaTeX"
+message: "If you use this repository, please cite it using these metadata."
+type: software
+authors:
+  - given-names: Travis
+    family-names: Stenborg
+    orcid: "https://orcid.org/0000-0002-2693-9628"
+url: "https://github.com/tstenborg/tikz-styling-maple"
+abstract: >-
+  "This repository holds digital assets associated with the article 'Styling \
+  Maple graphics with TikZ and LaTeX'. That article discusses using TikZ and \
+  LaTeX to style graphics produced by the Maple mathematics software package. \
+  A graph of the standard cumulative distribution function was used to \
+  demonstrate the technique."
+keywords:
+  - latex
+  - maple
+  - tikz
+preferred-citation:
+  authors:
+    - given-names: Travis
+      family-names: Stenborg
+  doi: "10.47397/tb/46-3/tb144stenborg-maple"
+  end: 380 # Last page number.
+  issue: 3
+  journal: TUGboat
+  start: 379 # First page number.
+  title: "Styling Maple graphics with TikZ and LaTeX"
+  type: article
+  volume: 46
+  year: 2025
