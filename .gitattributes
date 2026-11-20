@@ -1,0 +1,3 @@
+# Support .mpl as a Maple extension, without triggering source
+# misidentification as JetBrains MPS content.
+*.mpl linguist-language=Text
